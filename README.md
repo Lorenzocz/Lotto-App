@@ -2,7 +2,8 @@
 Aplicación Móvil para notificar y mostrar los diferentes resultados de la lotería en Costa Rica
 
 ![Farmers Market Finder Demo](Doc/lottovideo.gif)
-# Desarrollada por Lorenzo Carazo
+
+# Desarrollada por Lorenzo Carazo Zuñiga
 
 La aplicación fue desarrollada con Flutter/ Dart.
 Dicha aplicación cuenta con el manejador de estados de GetX, es cual fue implementado para manejar la informormación en y la persintecia de los datos necesarios para el funcionamiento de la aplicación móvil.
@@ -11,3 +12,9 @@ se utiliza la inyección de dependecias y se utilizó la arquitectura propuesta 
 
 
 Link en la tienda:  https://n9.cl/want
+
+# Fotos
+
+![Farmers Market Finder Demo](Doc/home.jpg)
+![Farmers Market Finder Demo](Doc/sorteo.jpg)
+![Farmers Market Finder Demo](Doc/ic.png)
